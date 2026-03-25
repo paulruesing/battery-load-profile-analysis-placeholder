@@ -12,7 +12,10 @@
 
 A Python machine learning pipeline for **unsupervised segmentation and interpretation
 of customer load profiles** from operational field data of residential solar-powered
-battery systems, to enable utilisation and profitability insights at scale.
+battery systems, developed in collaboration with an external energy industry partner
+and in support of an ongoing academic publication. The framework processes large-scale,
+minute-resolution BMS logs across hundreds of real-world systems to deliver utilisation
+and profitability insights at scale.
 
 ---
 
@@ -98,7 +101,7 @@ behaviour.
 
 ## Authors
 
-AI for batteries group at RWTH Aachen.
+Paul Rüsing and Paul Busch for the AI for batteries group at RWTH Aachen.
 
 ## License
 
