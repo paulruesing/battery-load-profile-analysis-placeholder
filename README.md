@@ -12,13 +12,7 @@
 
 A Python machine learning pipeline for **unsupervised segmentation and interpretation
 of customer load profiles** from operational field data of residential solar-powered
-battery systems, developed as part of a research collaboration with an energy industry
-partner.
-
-The pipeline covers the full analysis lifecycle - from raw BMS time-series ingestion
-through feature engineering, deep clustering, and reference profile extraction to
-load profile analysis and economic modelling - and is designed to deliver actionable
-utilisation and profitability insights for OEMs at scale.
+battery systems, to enable utilisation and profitability insights at scale.
 
 ---
 
